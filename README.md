@@ -5,6 +5,7 @@ This software is an English digit classifier made with deep neural network using
 
 
 ## Usage
+Run this program directly from ```gui.py``` file. 
 There are two h5 training file has been given in this repository. To switch between those, just change the names of the training file in
 tensorflowTesting.py
 file.
