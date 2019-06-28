@@ -12,4 +12,4 @@ file.
 
 The usage is quite simple. Just draw the digit and press predict. Press clear to clear the canvas and draw a new digit.
 
-To download an executable file, just click on this [Google drive link](https://drive.google.com/open?id=19FECLRlQQXOQL4HbMbFp3-b9muCbrCxY) and install in your system.
+To download an executable file, just click on this [Google drive link](https://drive.google.com/open?id=1V0omLTuDJQeWlsr76FoxyhN8duTWB6g7) and install in your system.
