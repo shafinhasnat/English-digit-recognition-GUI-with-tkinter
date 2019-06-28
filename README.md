@@ -7,7 +7,7 @@ This software is an English digit classifier made with deep neural network using
 ## Usage
 Run this program directly from ```gui.py``` file. 
 There are two h5 training file has been given in this repository. To switch between those, just change the names of the training file in
-tensorflowTesting.py
+```tensorflowTesting.py```
 file.
 
 The usage is quite simple. Just draw the digit and press predict. Press clear to clear the canvas and draw a new digit.
