@@ -38,7 +38,7 @@ def clear():
 root = Tk()
 ##root.geometry('1000x500') 
 
-
+root.resizable(0,0)
 cv = Canvas(root, width=width, height=height, bg='white')
 cv.pack()
 
